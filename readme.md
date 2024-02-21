@@ -5,7 +5,7 @@ Subter8nia
 ----------
 ![Subter8nia](./images/sub8.gif)
 
-[Play here](http://johnearnest.github.io/Octo/index.html?gist=1e84a95321c330f9448dccef0690da53)
+[Play here](https://johnearnest.github.io/Octo/index.html?key=CZM94ZeV)
 
 Lander game for superchip. Made as part of Octojam 4.   
 Control with **WASD**. Press **R** to reset.
